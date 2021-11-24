@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+}
+
+.main {
+    background-position: center;
+    background-size: cover;
+    height: 109px;
+}
+
+.navbar {
+    height: 60px;
+    margin: auto;
+}
+
+.icon {
+    float: left;
+    height: 70px;
+}
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul li {
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 60px;
+    font-size: large;
+}
+img {
+    height: 600px;
+}
